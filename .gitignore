@@ -1,0 +1,22 @@
+# Ejecutables
+*.out
+*.exe
+*.o
+motor
+build/
+
+# CUDA temporales
+*.ptx
+*.cubin
+*.fatbin
+
+# Logs grandes
+*.log
+data/nasa_logs/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Editor configs
+.vscode/
