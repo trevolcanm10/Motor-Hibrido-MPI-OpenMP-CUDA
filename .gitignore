@@ -24,3 +24,5 @@ __pycache__/
 # Subir archivos pesados
 *.log.txt
 data/*.txt
+!data/access.log.txt
+!data/Apache.log.txt
