@@ -20,3 +20,7 @@ __pycache__/
 
 # Editor configs
 .vscode/
+
+# Subir archivos pesados
+*.log.txt
+data/*.txt
